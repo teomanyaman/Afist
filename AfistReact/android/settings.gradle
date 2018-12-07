@@ -1,0 +1,3 @@
+rootProject.name = 'AfistReact'
+
+include ':app'
